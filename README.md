@@ -31,14 +31,11 @@
   </p>
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-    Completed with HMTL & CSS. Features include text, email, and number inputs as well as radio buttons, checkboxes, and a text area.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Completed with HMTL & CSS. Features include text, email, and number inputs as well as radio buttons, checkboxes, and a text area.
 
 <!-- CONTACT -->
 
@@ -47,8 +44,6 @@
 Elle Williams - [@twitter_handle](https://twitter.com/twitter_handle) - ellew814@egmail.com
 
 Project Link: [https://github.com/Elle-Williams/Project---SurveyForm](https://github.com/Elle-Williams/Project---SurveyForm)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

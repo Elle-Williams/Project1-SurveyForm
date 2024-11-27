@@ -41,7 +41,7 @@ Completed with HMTL & CSS. Features include text, email, and number inputs as we
 
 ## Contact
 
-Elle Williams - [@twitter_handle](https://twitter.com/twitter_handle) - ellew814@egmail.com
+Elle Williams - ellew814@gmail.com
 
 Project Link: [https://github.com/Elle-Williams/Project---SurveyForm](https://github.com/Elle-Williams/Project---SurveyForm)
 

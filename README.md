@@ -19,7 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -31,6 +30,7 @@
   <p align="center">
 
     <br />
+
   </p>
 </div>
 
@@ -40,18 +40,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+</li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -60,19 +49,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
     Completed with HMTL & CSS. Features include text, email, and number inputs as well as radio buttons, checkboxes, and a text area.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 <!-- CONTACT -->
 

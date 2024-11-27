@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="surveyForm.css">
+    <title>Survey Form</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        <h1 id="title">video games survey</h1>
+
+        <p id="description">a few quick questions about how you play</p>
+        <hr />
+        <form action="" id="survey-form">
+            <fieldset>
+                <legend>fill in your details</legend>
+                <label for="name" id="name-label">name <input id="name" name="name" type="text" placeholder="enter your full name"
+                        required /></label>
+                <label for="email" id="email-label">email <input id="email" name="email" type="email"
+                        placeholder="enter your email" required /></label>
+                <label for="number" id="number-label">phone number <input id="number" name="number" type="number" minlength="12" maxlength="12"
+                        pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" class="form-control"
+                        placeholder="xxx-xxx-xxxx" required /></label>
+            </fieldset>
+            <fieldset>
+                <legend>which gaming platform do you prefer?</legend>
+                <select id="dropdown" name="dropdown">
+                    <option id="" checked>select an option</option>
+                    <option id="1">xbox</option>
+                    <option id="2">playstation</option>
+                    <option id="3">switch</option>
+                    <option id="4">pc</option>
+                    <option id="5">other</option>
+                </select>
+            </fieldset>
+            <fieldset>
+                <legend>which do you prefer?</legend>
+                <label for="single-player"><input id="single-player" type="radio" name="play-type" value="single" class="inline"
+                        checked /> single player</label>
+                <label for="multi-player"><input id="multi-player" type="radio" name="play-type" value="multi-player" class="inline" />
+                    multi-player</label>
+            </fieldset>
+            <fieldset>
+                <legend>what genres do you prefer?</legend>
+                <input id="rpg" type="checkbox" name="rpg" value="rpg" checked> <label for="rpg">rpg</label>
+                <input id="puzzle" type="checkbox" name="puzzle" value="puzzle"> <label for="puzzle">puzzle</label>
+                <input id="action-adventure" type="checkbox" name="action-adventure" value="action-adventure"> <label
+                    for="action-adventure">action-adventure</label>
+                <input id="sandbox" type="checkbox" name="sandbox" value="sandbox"> <label for="sandbox">sandbox</label>
+                <input id="shooter" type="checkbox" name="shooter" value="shooter"> <label for="shooter">shooter</label>
+                <input id="mmorpg" type="checkbox" name="mmorpg" value="mmorpg"> <label for="mmorpg">mmorpg</label>
+            </fieldset>
+            <fieldset>
+                <legend>final thoughts: </legend>
+                <label for="thoughts">
+                    <textarea id="thoughts" name="thoughts" rows="5" cols="50" placeholder="anything you'd like to add?"></textarea>
+                </label>
+            </fieldset>
+            <button id="submit">submit</button>
+        </form>
+    </div>
+</body>
+
+</html>

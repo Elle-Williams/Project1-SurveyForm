@@ -28,8 +28,6 @@
 
   <p align="center">
 
-    <br />
-
   </p>
 </div>
 

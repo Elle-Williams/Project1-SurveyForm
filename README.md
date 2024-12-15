@@ -45,7 +45,7 @@ Completed with HMTL & CSS. Features include text, email, and number inputs as we
 
 Elle Williams - ellew814@gmail.com
 
-Project Link: [https://github.com/Elle-Williams/Project---SurveyForm](https://github.com/Elle-Williams/Project---SurveyForm)
+Project Link: [https://github.com/Elle-Williams/Project1-SurveyForm](https://github.com/Elle-Williams/Project1-SurveyForm)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
